@@ -1,0 +1,29 @@
+main{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+}
+
+div{
+    height:10rem;
+    width:10rem;
+    border:1px solid black;
+    margin:1rem;
+}
+
+#green{
+    background-color:aquamarine;
+}
+
+#red{
+    background-color: rgb(120, 149, 236);
+}
+
+#pink{
+    background-color: rgb(238, 173, 247);
+}
+
+#blue{
+    background-color: bisque;
+}
